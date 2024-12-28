@@ -1,2 +1,2 @@
-# Extra-o-de-dados-textuais
-Extraindo informações de um site de notícias e analisando os dados
+# Extraindo informações de um site de notícias e analisando os dados
+Este repositório contém um script em Python que faz a extração de notícias de um site, armazena os dados em formato JSON e um script em "R" que tem como objetivo analisar um conjunto de textos, identificar quais tópicos estão presentes em cada documento, e visualizar os termos mais representativos de cada tópico. Ele utiliza o modelo de Latent Dirichlet Allocation (LDA) para esse propósito.
